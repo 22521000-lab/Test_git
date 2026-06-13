@@ -5,5 +5,6 @@ int main()
     printf("Hello, World!\n");
     printf("Thay doi boi remote repository");
     printf("Thay doi boi local 2");
+    printf("commit 4");
     return 0;
 }
